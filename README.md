@@ -1,5 +1,7 @@
 # Método dos gradientes conjugados
 
+obs.: Para vizualizar as fórmulas matemáticas, abra o arquivo `.ipynb`.
+
 ## Introdução
 
 O método dos gradientes conjugados (daqui para frente abreviado como CG, da sigla em inglês) é o método iterativo mais popular para resolver sistemas grandes de equações lineares. Esse método é particularmente efetivo para resolver sistemas $$Ax = b$$ onde $x$ é um vetor desconhecido (a incógnita), $b$ é conhecido e $A$ é uma matriz positiva-definida. Esse método é mais adequado para quando $A$ for esparsa: quando $A$ é densa, provavelmente um método mais adequado seria alguma fatoração (como a $LU$); mas quando $A$ é esparsa, suas fatorações geralmente são densas, impondo um custo de memória que pode ser inaceitável.
