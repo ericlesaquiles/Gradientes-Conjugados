@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Método dos gradientes conjugados}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Introdução}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Ideia geral do método}{section.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Gradientes\040conjugados}{subsection.1.2}% 4
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Conjugação de Gram-Schmidt}{subsection.1.2}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Precondicionador}{subsection.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.3}{Algoritmo}{section.1}% 7
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Implementação}{subsection.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.4}{Exemplo de Aplicação: Resolvendo o problema de Poisson em elementos finitos}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.5}{Experimentos\040computacionais}{section.1}% 10
+\BOOKMARK [3][-]{subsubsection.1.5.1}{Usando\040precondicionador\040de\040Cholesky}{subsection.1.5}% 11
+\BOOKMARK [2][-]{subsection.1.6}{Referências}{section.1}% 12
